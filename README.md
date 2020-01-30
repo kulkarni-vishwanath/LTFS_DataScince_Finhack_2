@@ -70,7 +70,7 @@ This competition was the perfect case of the fact that Simple models sometime wo
 Finally the one approach that worked best was a simple Random Forest model with no cross validation.
 
 ## Leaderboard
-- Public Leaderboard: 75/883 
-- Private Leaderboard: 24/883
+- Public Leaderboard: 64/883 
+- Private Leaderboard: 13/883
 
 
